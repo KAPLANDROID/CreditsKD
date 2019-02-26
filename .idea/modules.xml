@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreditsKD.iml" filepath="$PROJECT_DIR$/CreditsKD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creditskd2/creditskd2.iml" filepath="$PROJECT_DIR$/creditskd2/creditskd2.iml" />
+    </modules>
+  </component>
+</project>
